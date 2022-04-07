@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TupleinCSharp7.0/1.0.0": {
+        "runtime": {
+          "TupleinCSharp7.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TupleinCSharp7.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

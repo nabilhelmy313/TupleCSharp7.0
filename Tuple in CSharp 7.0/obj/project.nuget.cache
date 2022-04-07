@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aKLd27Wf0Un0YR7cXihQFh58XXVlHre8x2pVkY3scARDsjUmKBOD9tBhJJEd8nRUOL1rW1K5mkleFyvFwjAYGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Tuple in CSharp 7.0\\TupleCSharp7.0\\Tuple in CSharp 7.0\\TupleinCSharp7.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
